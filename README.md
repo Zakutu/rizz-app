@@ -19,7 +19,7 @@ Before running the Rizz-App, ensure you have the following prerequisites set up:
 
 Follow the steps below to set up and run the Rizz-App:
 
-1. Clone the repository: `git clone https://github.com/your-username/rizz-app.git`.
+1. Clone the repository: `git clone https://github.com/zakutu/rizz-app.git`.
 2. Navigate to the project directory: `cd rizz-app`.
 3. Install project dependencies: `npm install`.
 4. Start the Expo development server: `expo start`.
